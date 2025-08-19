@@ -1,0 +1,4737 @@
+{
+    "braketSchemaHeader": {
+        "name": "braket.task_result.analog_hamiltonian_simulation_task_result",
+        "version": "1"
+    },
+    "taskMetadata": {
+        "braketSchemaHeader": {
+            "name": "braket.task_result.task_metadata",
+            "version": "1"
+        },
+        "id": "arn:aws:braket:us-east-1:339712978487:quantum-task/74755460-ea6e-42a1-8984-995f20015ed5",
+        "shots": 200,
+        "deviceId": "arn:aws:braket:us-east-1::device/qpu/quera/Aquila",
+        "createdAt": "2025-08-18T08:37:59.079Z",
+        "endedAt": "2025-08-19T06:07:10.617Z",
+        "status": "COMPLETED"
+    },
+    "measurements": [
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    0,
+                    1,
+                    1,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    1,
+                    0,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    1,
+                    1,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    1,
+                    1,
+                    0,
+                    1,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    1,
+                    0,
+                    1,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    1,
+                    0,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    1,
+                    1,
+                    1,
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    0,
+                    1,
+                    1,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    1,
+                    0,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    1,
+                    0,
+                    1,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    0,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    1,
+                    0,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    0,
+                    0,
+                    1,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    1,
+                    0,
+                    1,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    1,
+                    0,
+                    1,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    0,
+                    1,
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    0,
+                    0,
+                    1,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    1,
+                    0,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    1,
+                    0,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    0,
+                    1,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    0,
+                    1,
+                    0,
+                    1,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    1,
+                    0,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    1,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    0,
+                    1,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    1,
+                    1,
+                    1,
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    1,
+                    0,
+                    1,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    1,
+                    0,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    1,
+                    0,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    1,
+                    0,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    0,
+                    1,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    1,
+                    0,
+                    1,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    0,
+                    0,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    0,
+                    1,
+                    1,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    0,
+                    1,
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    0,
+                    0,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    1,
+                    1,
+                    1,
+                    1,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    0,
+                    1,
+                    0,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    0,
+                    1,
+                    0,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    0,
+                    1,
+                    1,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    0,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    1,
+                    1,
+                    1,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    0,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    0,
+                    1,
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    0,
+                    1,
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    0,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    0,
+                    1,
+                    1,
+                    1,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    0,
+                    1,
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    1,
+                    0,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    0,
+                    0,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    0,
+                    1,
+                    0,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    1,
+                    0,
+                    1,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    0,
+                    1,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    1,
+                    0,
+                    1,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    0,
+                    0,
+                    1,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    1,
+                    0,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    1,
+                    0,
+                    1,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    1,
+                    0,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    1,
+                    1,
+                    1,
+                    1,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    0,
+                    1,
+                    0,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    0,
+                    1,
+                    1,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    0,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    1,
+                    1,
+                    0,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    0,
+                    1,
+                    0,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    0,
+                    1,
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    1,
+                    0,
+                    0,
+                    1,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    1,
+                    1,
+                    1,
+                    1,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    0,
+                    0,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    0,
+                    1,
+                    0,
+                    1,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    0,
+                    1,
+                    0,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    1,
+                    0,
+                    0,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    1,
+                    0,
+                    1,
+                    1,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    1,
+                    0,
+                    1,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    0,
+                    0,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    1,
+                    0,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    1,
+                    1,
+                    1,
+                    1,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    0,
+                    0,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    0,
+                    1,
+                    0,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    1,
+                    0,
+                    1,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    1,
+                    0,
+                    0,
+                    1,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    0,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    0,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    0,
+                    1,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    1,
+                    1,
+                    1,
+                    1,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    0,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    0,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    0,
+                    1,
+                    0,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    0,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    1,
+                    0,
+                    0,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    0,
+                    0,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    0,
+                    1,
+                    1,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    1,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    1,
+                    0,
+                    1,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    1,
+                    0,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    0,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    1,
+                    1,
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    0,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    0,
+                    0,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    1,
+                    0,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    0,
+                    1,
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    1,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    1,
+                    0,
+                    1,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    1,
+                    1,
+                    0,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    0,
+                    0,
+                    1,
+                    1,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    1,
+                    0,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    0,
+                    1,
+                    0,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    1,
+                    1,
+                    1,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    1,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    1,
+                    0,
+                    0,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    1,
+                    1,
+                    1,
+                    1,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    1,
+                    0,
+                    0,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    0,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    0,
+                    1,
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    1,
+                    0,
+                    1,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    1,
+                    1,
+                    1,
+                    1,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    0,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    1,
+                    0,
+                    0,
+                    1,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    0,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    0,
+                    1,
+                    0,
+                    1,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    1,
+                    1,
+                    0,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    1,
+                    1,
+                    0,
+                    1,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    0,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    1,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    0,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    1,
+                    0,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    1,
+                    1,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    0,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    0,
+                    1,
+                    0,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    0,
+                    1,
+                    1,
+                    1,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    1,
+                    1,
+                    1,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    1,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    0,
+                    1,
+                    0,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    0,
+                    1,
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    0
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    0,
+                    1,
+                    1,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    0,
+                    1,
+                    0,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    1,
+                    1,
+                    1,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    0,
+                    1,
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    0,
+                    0,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    0,
+                    1,
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    0,
+                    1,
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    1,
+                    0,
+                    0,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    0
+                ],
+                "postSequence": [
+                    0,
+                    0,
+                    0,
+                    1,
+                    1,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    0,
+                    0,
+                    1,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    1,
+                    1,
+                    0,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    1,
+                    1,
+                    0,
+                    1,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    0,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    1,
+                    1,
+                    0,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    0,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    0,
+                    1,
+                    1,
+                    1,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    0,
+                    1,
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    1,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    1,
+                    0,
+                    1,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    1,
+                    0,
+                    1,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    1,
+                    0,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    0,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    0,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    0,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    0,
+                    0,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    0,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    1,
+                    0,
+                    1,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    1,
+                    0,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    0,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    1,
+                    1,
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    1,
+                    1,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    1,
+                    0,
+                    0,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    0,
+                    0,
+                    1,
+                    1,
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    0,
+                    0,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    0,
+                    1,
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "shotMetadata": {
+                "shotStatus": "Success"
+            },
+            "shotResult": {
+                "preSequence": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "postSequence": [
+                    1,
+                    0,
+                    1,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        }
+    ],
+    "additionalMetadata": {
+        "action": {
+            "braketSchemaHeader": {
+                "name": "braket.ir.ahs.program",
+                "version": "1"
+            },
+            "setup": {
+                "ahs_register": {
+                    "sites": [
+                        [
+                            0.0000075,
+                            0.0
+                        ],
+                        [
+                            0.00000375,
+                            -0.0000065
+                        ],
+                        [
+                            -0.00000375,
+                            -0.0000065
+                        ],
+                        [
+                            -0.0000075,
+                            0.0
+                        ],
+                        [
+                            -0.00000375,
+                            0.0000065
+                        ],
+                        [
+                            0.00000375,
+                            0.0000065
+                        ]
+                    ],
+                    "filling": [
+                        1,
+                        1,
+                        1,
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            },
+            "hamiltonian": {
+                "drivingFields": [
+                    {
+                        "amplitude": {
+                            "time_series": {
+                                "values": [
+                                    0.0,
+                                    3600000.0,
+                                    3600000.0,
+                                    0.0,
+                                    0.0
+                                ],
+                                "times": [
+                                    0.0,
+                                    5E-8,
+                                    0.0000019,
+                                    0.00000195,
+                                    0.000002
+                                ]
+                            },
+                            "pattern": "uniform"
+                        },
+                        "phase": {
+                            "time_series": {
+                                "values": [
+                                    0.0,
+                                    0.0,
+                                    0.0,
+                                    0.0,
+                                    0.0
+                                ],
+                                "times": [
+                                    0.0,
+                                    5E-8,
+                                    0.0000019,
+                                    0.00000195,
+                                    0.000002
+                                ]
+                            },
+                            "pattern": "uniform"
+                        },
+                        "detuning": {
+                            "time_series": {
+                                "values": [
+                                    -36000000.0,
+                                    -36000000.0,
+                                    36000000.0,
+                                    36000000.0,
+                                    36000000.0
+                                ],
+                                "times": [
+                                    0.0,
+                                    5E-8,
+                                    0.0000019,
+                                    0.00000195,
+                                    0.000002
+                                ]
+                            },
+                            "pattern": "uniform"
+                        }
+                    }
+                ],
+                "localDetuning": []
+            }
+        },
+        "queraMetadata": {
+            "braketSchemaHeader": {
+                "name": "braket.task_result.quera_metadata",
+                "version": "1"
+            },
+            "numSuccessfulShots": 200
+        }
+    }
+}
